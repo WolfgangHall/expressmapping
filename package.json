@@ -4,15 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/WolfgangHall/expressmapping.git"
-      },
-      "author": "",
-      "license": "ISC",
-      "dependencies": {
-        "express": "^4.13.4"
-      }
-    }
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfgangHall/expressmapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WolfgangHall/expressmapping/issues"
+  },
+  "homepage": "https://github.com/WolfgangHall/expressmapping#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
