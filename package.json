@@ -5,10 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start":"node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/WolfgangHall/expressmapping.git"
       },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.13.4"
-  }
-}
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "express": "^4.13.4"
+      }
+    }
